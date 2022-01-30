@@ -1,0 +1,24 @@
+{
+    "name": "kurai",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#4ce659",
+        "primary-color": "#661fad",
+        "warning-color": "#ff3333",
+
+        "sidebar-color": "#1a181b",
+        "roomlist-background-olor": "#272428",
+        "roomlist-text-color": "#f4f0f4",
+        "roomlist-text-secondary-color": "#e9e2e9",
+        "roomlist-highlights-color": "#343036",
+        "roomlist-separator-color": "#1a181b",
+
+        "timeline-background-color": "#1a181b",
+        "timeline-text-color": "#f4f0f4",
+        "secondary-content": "#e9e2e9",
+        "tertiary-content": "#272428",
+        "timeline-text-secondary-color": "#343036",
+        "timeline-highlights-color": "#343036",
+        "reaction-row-button-selected-bg-color": "#8f9fef"
+    }
+}
